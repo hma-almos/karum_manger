@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715310189685",
+    "project_id": "karum-da3fa",
+    "storage_bucket": "karum-da3fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715310189685:android:b250398dac72be99ecbc3c",
+        "android_client_info": {
+          "package_name": "com.example.karum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8x9zzUys30CUEuO1cpZmLjv3cEDOQwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715310189685:android:b86fcf407f2973d5ecbc3c",
+        "android_client_info": {
+          "package_name": "com.example.karum_manger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8x9zzUys30CUEuO1cpZmLjv3cEDOQwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
